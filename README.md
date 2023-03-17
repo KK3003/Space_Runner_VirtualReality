@@ -9,11 +9,11 @@ The functionalities and principles used in this project include:
 ___
 # Screenshots
 ___
-![screenshot](/Screenshots/Chest1.png)
+![screenshot](/Screenshots/R1.png)
 ___
-![screenshot](/Screenshots/Chest2.png)
+![screenshot](/Screenshots/VR1.png)
 ___
-![screenshot](/Screenshots/Chest3.png)
+![screenshot](/Screenshots/VR1.png)
 
 
 
